@@ -2888,6 +2888,10 @@
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
         (fill (type none))
       )
+      (circle (center 0 -6.35) (radius 0.635)
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
       (circle (center 0 -0.635) (radius 0.635)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -2902,7 +2906,7 @@
       )
       (polyline
         (pts
-          (xy 0 -6.985)
+          (xy 0 -5.715)
           (xy 0 -1.27)
           (xy -0.635 -1.905)
         )
